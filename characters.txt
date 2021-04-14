@@ -1,4 +1,5 @@
-pirates
-crocodile
-sharks
-police
+Monkey
+seller
+rat
+cat
+
